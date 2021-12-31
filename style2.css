@@ -1,0 +1,61 @@
+form {
+    margin:0 auto;
+    width: 250px;
+    padding: 30px;
+    border: 3px solid rgb(121, 80, 80);
+    border-radius: 1em;
+    padding-top: 30px;
+    
+    
+    
+  
+  }
+  ul {
+      list-style: none;
+      padding: 3px;
+      margin: 5px;
+      margin-top: 5px;
+  
+  }
+  form li + li {
+     margin-top: 5ch;
+  } 
+  label {
+      display: inline-block;
+      width: 90px;
+      text-align: right;
+      
+  }
+  input,textarea{
+     width: 3Opx;
+  }
+
+  .prince{
+      display: flex;
+      width: 5O%;
+  }
+  .com{
+     margin-left: 25px;
+     width: 70%; 
+
+  }
+  .forme p {
+     display: flex;
+     margin-left: 45px;
+  }
+  .banne{
+      margin-top: 5em;
+      position: relative;
+  }
+
+p{
+    display: flex;
+}
+img{
+    
+    border: 10px solid rgb(121, 80, 80);
+    border-radius: 1em;
+    margin-top: 0px;
+}
+
+
